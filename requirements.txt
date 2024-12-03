@@ -1,0 +1,15 @@
+pillow
+pytube
+youtube-dl
+yt-dlp
+moviepy
+requests
+SpeechRecognition
+opencv-python
+imageio
+numpy
+ffmpeg
+ffprobe
+edge-tts
+gTTS
+pyttsx3
